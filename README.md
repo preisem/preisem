@@ -1,11 +1,83 @@
-<h1 align="center">Hi 👋, I'm Matthew Preisendorfer</h1>
-<h3 align="center">Passionate Software Engineer in OSINT and UAS Technologies</h3>
+# 👋 Hi, I'm Matthew Preisendorfer
+### 🚀 Software Engineer | OSINT & UAS Technologies Specialist
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/preisem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preisem" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mpreisendorfer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mpreisendorfer" height="30" width="40" /></a>
+With over 8 years of experience in software engineering, specializing in **Open Source Intelligence (OSINT)** and **Unmanned Aerial Systems (UAS)**, I’m passionate about creating efficient and effective solutions that push the boundaries of technology. My expertise spans Python, AI/ML integration, and building robust analytical tools for complex problems.
+
+---
+
+## 🌟 About Me  
+- 🎓 **Education**: MS and BS in Computer Information Science from SUNY Polytechnic Institute.  
+- 💡 **Specializations**: OSINT, UAS technologies, AI/ML, and software development for critical systems.  
+- 🛠️ **Strengths**: Strong problem-solving skills, adaptability, and deep knowledge of systems, networks, and hardware.  
+- ✨ **Fun Fact**: I’ve collaborated with NASA, DoD, and AFRL on cutting-edge UAS projects.  
+
+---
+
+## 💻 Technical Skills  
+**Languages & Frameworks**:  
+- Python, C, C++, Bash  
+- Flask, Scikit-learn, TensorFlow, PyTorch, OpenCV  
+
+**Tools & Technologies**:  
+- Elasticsearch, PostgreSQL, MongoDB, RabbitMQ  
+- Linux, Git, Docker, Hadoop  
+- Network Programming & UAS Integration  
+
+---
+
+## 🏆 Highlights & Achievements  
+- **AFRL Commercialization Academy Finalist** (2019)  
+- **SUNY Polytechnic Institute President’s List** (Multiple Semesters)  
+- **AFCEA SRC/SRCTech Scholarship Recipient**  
+- **Winner of Student Project Showcase**  
+
+---
+
+## 💼 Professional Experience  
+### **Federal Data Systems LLC** – Software Engineer  
+*March 2020 – Nov. 2024 (Remote)*  
+- Developed software solutions for OSINT projects.  
+- Built tools for data collection, maintenance, and analysis.  
+- Integrated AI/ML for advanced analytics.  
+
+### **AX Enterprize LLC** – Software Engineer  
+*Aug. 2015 – March 2020*  
+- Delivered solutions for UAS technologies and airspace integration.  
+- Collaborated with NASA, DoD, and AFRL on high-impact projects.  
+- Specialized in Python, C++, and network-based programming.  
+
+### **SUNY Polytechnic Institute** – Graduate Research Assistant  
+*Jan. 2017 – Jan. 2018*  
+- Conducted research on trust modeling using social media data and emojis.  
+
+---
+
+## 🚀 Featured Projects  
+### **Social Media Emoji Analysis & Trust Modeling**  
+- Developed models to analyze societal behaviors and predict demographics using emoji data.  
+- Created "trust fingerprints" for identifying authenticity in social media interactions.  
+
+### **Cyber Defense Network Adapter (CDNA)**  
+- Designed a device to intercept and block malicious executables from network traffic.  
+- Enhanced cybersecurity by preventing viruses from reaching end-user systems.  
+
+---
+
+## 🌐 Connect with Me  
+I’m always excited to discuss new opportunities, share knowledge, and collaborate on innovative projects.  
+
+[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/mpreisendorfer)
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=preisem&show_icons=true&theme=radical" alt="Matthew's GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+---
+
+## 🎯 Goals for 2024  
+- Advance OSINT tools through AI/ML integration.  
+- Contribute to open-source projects in UAS and cybersecurity.  
+- Expand knowledge of cutting-edge UAS and mobile network technologies.  
