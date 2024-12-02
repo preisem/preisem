@@ -15,13 +15,47 @@ With over 8 years of experience in software engineering, specializing in **Open 
 
 ## 💻 Technical Skills  
 **Languages & Frameworks**:  
-- Python, C, C++, Bash  
-- Flask, Scikit-learn, TensorFlow, PyTorch, OpenCV  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)&nbsp;
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)&nbsp; 
+![BASH](https://img.shields.io/badge/BASH-8A2BE2)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)&nbsp;
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat)&nbsp;
+
 
 **Tools & Technologies**:  
-- Elasticsearch, PostgreSQL, MongoDB, RabbitMQ  
-- Linux, Git, Docker, Hadoop  
-- Network Programming & UAS Integration  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=python&logoColor=white&style=flat)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat)&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=flat)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)&nbsp;
+![Scrapy](https://img.shields.io/badge/Scrapy-448DD6?logo=scrapy&logoColor=white&style=flat)&nbsp;
+![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-3776AB?logo=python&logoColor=white&style=flat)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-b0ee34)&nbsp;
+
+**Databases**:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)&nbsp;
+![HDFS](https://img.shields.io/badge/HDFS-003E7E?logo=apache-hadoop&logoColor=white&style=flat)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-b85d8a)&nbsp;
+
+**DevOps**:
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)&nbsp;
+![Nagios](https://img.shields.io/badge/Nagios-217346?logo=nagios&logoColor=white&style=flat)&nbsp;
+![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=flat)&nbsp;
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat)&nbsp;
+![HAProxy](https://img.shields.io/badge/HAProxy-00ADEF?logo=haproxy&logoColor=white&style=flat)&nbsp;
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?logo=elastic&logoColor=white&style=flat)&nbsp;
+![Microsoft Teams](https://img.shields.io/badge/Teams-6264A7?logo=microsoft-teams&logoColor=white&style=flat)&nbsp;
+
+**Other**: 
+![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-50c0f0)&nbsp;
+![UAS/UTM Integration](https://img.shields.io/badge/UAS/UTM_Integration-d64429)&nbsp;
 
 ---
 
