@@ -14,8 +14,7 @@ With over 8 years of experience in software engineering, specializing in **Open 
 ---
 
 ## 💻 Technical Skills  
-**Languages & Frameworks**:  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)&nbsp;
+**Languages & Frameworks**:  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)&nbsp;
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat)&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)&nbsp; 
 ![BASH](https://img.shields.io/badge/BASH-8A2BE2)&nbsp;
@@ -25,8 +24,7 @@ With over 8 years of experience in software engineering, specializing in **Open 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat)&nbsp;
 
 
-**Tools & Technologies**:  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=python&logoColor=white&style=flat)&nbsp;
+**Tools & Technologies**:  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=python&logoColor=white&style=flat)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat)&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=flat)&nbsp;
@@ -53,7 +51,7 @@ With over 8 years of experience in software engineering, specializing in **Open 
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?logo=elastic&logoColor=white&style=flat)&nbsp;
 ![Microsoft Teams](https://img.shields.io/badge/Teams-6264A7?logo=microsoft-teams&logoColor=white&style=flat)&nbsp;
 
-**Other**: 
+**Other**:
 ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-50c0f0)&nbsp;
 ![UAS/UTM Integration](https://img.shields.io/badge/UAS/UTM_Integration-d64429)&nbsp;
 
