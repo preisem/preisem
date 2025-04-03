@@ -15,16 +15,18 @@ With over 8 years of experience in software engineering, specializing in **Open 
 
 ## 💻 Technical Skills  
 **Languages & Frameworks**:  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)&nbsp;
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat)&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)&nbsp; 
-![BASH](https://img.shields.io/badge/BASH-8A2BE2)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)&nbsp;
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat)&nbsp;
 
 
-**Tools & Technologies**:  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=python&logoColor=white&style=flat)&nbsp;
+**Tools & Technologies**:  [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat)&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=flat)&nbsp;
@@ -66,6 +68,8 @@ With over 8 years of experience in software engineering, specializing in **Open 
 ---
 
 ## 💼 Professional Experience  
+### **Booz Allen Hamilton** - Senior Consulting Software Engineer
+*March 2025 – Present (Hybrid)*  
 ### **Federal Data Systems LLC** – Software Engineer  
 *March 2020 – Nov. 2024 (Remote)*  
 - Developed software solutions for OSINT projects.  
@@ -85,6 +89,10 @@ With over 8 years of experience in software engineering, specializing in **Open 
 ---
 
 ## 🚀 Featured Projects  
+### **Bird Identification Tool / Web Server**
+- Create nodes to capture audio and identify birds using tensorflow (birdnetlib)
+- Display data, statics, live video and more from nodes in a local server
+- 
 ### **Social Media Emoji Analysis & Trust Modeling**  
 - Developed models to analyze societal behaviors and predict demographics using emoji data.  
 - Created "trust fingerprints" for identifying authenticity in social media interactions.  
