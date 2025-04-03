@@ -35,7 +35,8 @@ With over 8 years of experience in software engineering, specializing in **Open 
 ![Scrapy](https://img.shields.io/badge/Scrapy-448DD6?logo=scrapy&logoColor=white&style=flat)&nbsp;
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-3776AB?logo=python&logoColor=white&style=flat)&nbsp;
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-b0ee34)&nbsp;
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
 
 **Databases**:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)&nbsp;
