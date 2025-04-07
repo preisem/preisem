@@ -93,7 +93,7 @@ With over 8 years of experience in software engineering, specializing in **Open 
 ### **Bird Identification Tool / Web Server**
 - Create nodes to capture audio and identify birds using tensorflow (birdnetlib)
 - Display data, statics, live video and more from nodes in a local server
-- 
+
 ### **Social Media Emoji Analysis & Trust Modeling**  
 - Developed models to analyze societal behaviors and predict demographics using emoji data.  
 - Created "trust fingerprints" for identifying authenticity in social media interactions.  
@@ -118,7 +118,7 @@ I’m always excited to discuss new opportunities, share knowledge, and collabor
 
 ---
 
-## 🎯 Goals for 2024  
-- Advance OSINT tools through AI/ML integration.  
+## 🎯 Goals for 2025   
 - Contribute to open-source projects in UAS and cybersecurity.  
-- Expand knowledge of cutting-edge UAS and mobile network technologies.  
+- Expand knowledge of cutting-edge UAS and mobile network technologies.
+- Continue to develop the capabilites of the Bird-Identificaion-Tool.
